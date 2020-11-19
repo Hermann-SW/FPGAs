@@ -2,7 +2,7 @@
 I will use this "blog like" github repo to document what I have done with FPGAs.
 
 ## 11/18/2020
-Today's Hackaday [Hacking The FPGA Control Board From A Bitcoin Miner](https://hackaday.com/2020/11/18/hacking-the-fpga-control-board-from-a-bitcoin-miner/) article references [xjtuecho's github repo](https://github.com/xjtuecho/EBAZ4205) with lots of details on how to deal with EBAZ4205 board I ordered initially 10/26 (how to power ther board, shut down the BTC miner program in linux running on board's dual core A9s, setting static IP address for using ethernet finally, ...)
+Today's Hackaday [Hacking The FPGA Control Board From A Bitcoin Miner](https://hackaday.com/2020/11/18/hacking-the-fpga-control-board-from-a-bitcoin-miner/) article references [xjtuecho's github repo](https://github.com/xjtuecho/EBAZ4205) with lots of details on how to deal with EBAZ4205 board I ordered initially 10/26 (how to power the board, shut down the BTC miner program in Linux running on board's dual core A9, setting static IP address for using ethernet finally, ...)
 
 
 ## 11/17/2020
