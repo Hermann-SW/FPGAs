@@ -1,3 +1,5 @@
+## 10/26/2020
+
 I wanted to look into Xilinx (just bought by AMD) and Altera (Intel) FPGAs.  
 I did ordered these cheaps boards for starting handson and learnings:
 

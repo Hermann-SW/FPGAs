@@ -38,7 +38,7 @@ AMD Acquires Xilinx for $35 Billion ... [more](https://twitter.com/hackaday/stat
 
 
 ## 10/26/2020
-I decided to start learning on how to use FPGAs, read a lot, and ordered three cheap development boards ... [more](2020/10/26)
+I decided to start learning on how to use FPGAs, read a lot, and ordered three cheap development boards ... [more](2020/10/26/#10262020)
 
 
 ## Field-programmable gate array (FPGA)  
