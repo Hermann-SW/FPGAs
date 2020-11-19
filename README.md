@@ -2,6 +2,11 @@
 I will use this "blog like" github repo to document what I have done with FPGAs.
 
 
+## 11/19/2020
+Received first Altera development board ordered on 10/31 — powering shows delivery demo:
+![](res/altera.EPM240.delivery.anim.gif)
+
+
 ## 11/18/2020
 Today's Hackaday [Hacking The FPGA Control Board From A Bitcoin Miner](https://hackaday.com/2020/11/18/hacking-the-fpga-control-board-from-a-bitcoin-miner/) article references [xjtuecho's github repo](https://github.com/xjtuecho/EBAZ4205) with lots of details on how to deal with EBAZ4205 board I ordered initially 10/26 (how to power the board, shut down the BTC miner program in Linux running on board's dual core A9, setting static IP address for using ethernet finally, ...)
 
@@ -34,6 +39,10 @@ Did buy [XILINX CoolRunner-II FPGA CPLD XC2C64A Core development board](https://
 ## 11/3/2020
 Received development board ordered 10/30 — powering shows delivery demo:  
 ![](res/XC9572XL.delivery.anim.gif)
+
+
+## 10/31/2020
+Ordered 8$ [Altera MAX II EPM240 CPLD Development Board](https://www.amazon.de/-/en/gp/product/B082LS4YBZ/ref=ppx_yo_dt_b_asin_title_o03_s00).
 
 
 ## 10/30/2020
