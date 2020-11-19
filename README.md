@@ -17,7 +17,7 @@ Did order 15.90$ [Lichee Tang Nano FPGA development board with 4.3" display](htt
 
 ## 11/4/2020
 
-* Registered at Xilinx for download&install of ISE Design Suite 14.7 ... [more](2020/11/4)  
+* Registered at Xilinx for download&install of ISE Design Suite 14.7 ... [more](2020/11/4/#1142020)  
 
 * Was surprised that 3.50$ FPGA development boards can be bought locally.  
 Did buy [XILINX CoolRunner-II FPGA CPLD XC2C64A Core development board](https://www.ebay.de/itm/XILINX-CoolRunner-II-FPGA-CPLD-XC2C64A-Core-Module-Mini-Development-For-XBOX360/272864294476) for fast delivery.

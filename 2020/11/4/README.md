@@ -1,3 +1,5 @@
+## 11/4/2020
+
 I registered at Xilinx for being able to download&install "ISE Design Suite - 14.7  Full Product Installation" last updated October 2013 (Full Installer for Linux). I will use this for the older Spartan6 FPGAs:  
 [https://www.xilinx.com/downloadNav/vivado-design-tools/archive-ise.html](https://www.xilinx.com/downloadNav/vivado-design-tools/archive-ise.html)
 
