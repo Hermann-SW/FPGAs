@@ -4,7 +4,7 @@ I will use this "blog like" github repo to document what I have done with FPGAs.
 ## 11/17/2020
 
 Received development board ordered 11/4 ... [more](2020/11/17)  
-<img src="res/20201117_172755.tw.50%.jpg" width=335>
+<img src="res/20201117_172755.tw.50pc.jpg" width=335>
 
 Received development board ordered 10/26 — powering shows delivery demo:  
 ![](res/Xilinx_spartan6_XC6SLX16_development_board_delivery_FGPA_demo.gif)
