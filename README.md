@@ -8,14 +8,10 @@ Received first Altera development board ordered on 10/31 — powering shows deli
 
 
 ## 11/18/2020
-Today's Hackaday [Hacking The FPGA Control Board From A Bitcoin Miner](https://hackaday.com/2020/11/18/hacking-the-fpga-control-board-from-a-bitcoin-miner/) article references [xjtuecho's github repo](https://github.com/xjtuecho/EBAZ4205) with lots of details on how to deal with EBAZ4205 board I ordered initially 10/26 (how to power the board, shut down the BTC miner program in Linux running on board's dual core A9, setting static IP address for using ethernet finally, ...)
-
-I bought such board for 17$ on [aliexpress](https://www.aliexpress.com/item/1005001530141192.html):  
-<img src="https://ae01.alicdn.com/kf/Hd1b7e52095ac4cb0a0b9628a92bdc8387/Xilinxss-ZYNQ-Development-Board-XC7Z7010-Learning-Board-FPGA-Learning-EBAZ4205.jpg" width=248>
+<img src="https://ae01.alicdn.com/kf/Hd1b7e52095ac4cb0a0b9628a92bdc8387/Xilinxss-ZYNQ-Development-Board-XC7Z7010-Learning-Board-FPGA-Learning-EBAZ4205.jpg" width=248 align=left>Today's Hackaday [Hacking The FPGA Control Board From A Bitcoin Miner](https://hackaday.com/2020/11/18/hacking-the-fpga-control-board-from-a-bitcoin-miner/) article references [xjtuecho's github repo](https://github.com/xjtuecho/EBAZ4205) with lots of details on how to deal with EBAZ4205 board I ordered initially 10/26 for 17$ on [aliexpress](https://www.aliexpress.com/item/1005001530141192.html) (how to power the board, shut down the BTC miner program in Linux running on board's dual core A9, setting static IP address for using ethernet finally, ...)
 
 
 ## 11/17/2020
-
 Received development board ordered 11/4 ... [more](2020/11/17/#11172020)  
 <img src="res/20201117_172755.tw.50pc.jpg" width=335>
 
