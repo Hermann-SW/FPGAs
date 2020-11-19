@@ -1,9 +1,9 @@
 ## 10/26/2020
 
 I wanted to look into Xilinx (just bought by AMD) and Altera (Intel) FPGAs.  
-I did ordered these cheaps boards for starting handson and learnings:
+I did order these cheaps boards for starting handson and learning:
 
-17$ Xilinxss ZYNQ Development Board XC7Z7010
+17$ Xilinxss ZYNQ Development Board XC7Z7010  
 (with 256MB DDR and 128MB NAND FLASH, and containing dual core A9 CPU which might even run Linux):  
 https://www.aliexpress.com/item/1005001530141192.html
 
