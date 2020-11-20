@@ -13,7 +13,7 @@ https://en.wikipedia.org/wiki/Complex_programmable_logic_device<br>
 
 
 ## 11/20/2020
-* EBAZ4205 board ZYNQ XC7Z010 feature summary ([dual-core ARM Cortex-A9](https://www.xilinx.com/support/documentation/data_sheets/ds190-Zynq-7000-Overview.pdf#page=2), [Artix-7 FPGA](https://www.xilinx.com/support/documentation/data_sheets/ds190-Zynq-7000-Overview.pdf#page=3))
+* Feature summary with product and datasheet links of boards ordered ... [more](2020/11/20/#11202020)
 * Before trying to login into EBAZ4205 A9 Linux with USB2UART adapter [as described in xjtuecho's github repo](https://github.com/xjtuecho/EBAZ4205#reset-the-root-password-of-built-in-linux), I tested adapter to login into another Raspberry Pi. That did not work, bought new USB2UART adapter and that failed as well. Finally identified configuration issue responsible ... [more](https://www.raspberrypi.org/forums/viewtopic.php?f=66&t=291776)
 
 
