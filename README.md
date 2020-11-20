@@ -16,7 +16,7 @@ Received first Altera development board ordered on 10/31 — powering shows deli
 
 
 ## 11/17/2020
-* Received development board ordered 11/4 ... [more](2020/11/17/#11172020)  
+* Received development board ordered 11/4 ... [more](2020/11/17/#11172020)<br>
 <img src="res/20201117_172755.tw.50pc.jpg" width=335>
 
 * Received development board ordered 10/26 — powering shows delivery demo:  
