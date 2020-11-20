@@ -15,7 +15,8 @@ https://en.wikipedia.org/wiki/Complex_programmable_logic_device<br>
 ## 11/20/2020
 * EP4CE10E22C8N altera fpga cyclone IV development board ordered 10/26, [delivery FPGA demo](https://www.youtube.com/watch?v=OehTmLRsN2s):  
 ![](res/EP4CE10E22C8N_altera_fpga_cyclone_IV_development_board_delivery_FPGA_demo.gif)
-* Feature summary with product and datasheet links of boards ordered ... [more](2020/11/20/#11202020)
+* Feature summary with product and datasheet links of boards ordered ... [more](2020/11/20/#11202020)  
+![](res/feature_summary.thumb.jpg)
 * Before trying to login into EBAZ4205 A9 Linux with USB2UART adapter [as described in xjtuecho's github repo](https://github.com/xjtuecho/EBAZ4205#reset-the-root-password-of-built-in-linux), I tested adapter to login into another Raspberry Pi. That did not work, bought new USB2UART adapter and that failed as well. Finally identified configuration issue responsible ... [more](https://www.raspberrypi.org/forums/viewtopic.php?f=66&t=291776)
 
 
