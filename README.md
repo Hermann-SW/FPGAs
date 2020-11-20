@@ -7,7 +7,7 @@ And CPLDs (complexity between that of PALs and FPGAs).
 <img src="res/boards_sofar.jpg" align="left">  
 https://en.wikipedia.org/wiki/Field-programmable_gate_array<br> 
 https://en.wikipedia.org/wiki/Complex_programmable_logic_device<br> 
-(below is 25% size, right click for 100%)<br>
+(below is 25% size, click for 100%)<br>
 <img src="res/FPGAs_CPLDs.jpg" width=482>
 <br clear="all"/>
 
