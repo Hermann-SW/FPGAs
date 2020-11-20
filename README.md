@@ -2,7 +2,7 @@
 I will use this "blog like" github repo to document what I have done with FPGAs.
 
 ## 11/20/2020
-* Before trying to login into EBAZ4205 A9 Linux with USB2UART adapter [as described in xjtuecho's github repo](https://github.com/xjtuecho/EBAZ4205#reset-the-root-password-of-built-in-linux), I tested adaapter to login into another Raspberry Pi. That did not work, bought new USB2UART adapter and that failed as well. Finally identified configuration issue responsible ... [more](https://www.raspberrypi.org/forums/viewtopic.php?f=66&t=291776)
+* Before trying to login into EBAZ4205 A9 Linux with USB2UART adapter [as described in xjtuecho's github repo](https://github.com/xjtuecho/EBAZ4205#reset-the-root-password-of-built-in-linux), I tested adapter to login into another Raspberry Pi. That did not work, bought new USB2UART adapter and that failed as well. Finally identified configuration issue responsible ... [more](https://www.raspberrypi.org/forums/viewtopic.php?f=66&t=291776)
 
 
 ## 11/19/2020
