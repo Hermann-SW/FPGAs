@@ -1,5 +1,16 @@
 ## working with FPGAs
-I will use this "blog like" github repo to document what I have done with FPGAs.
+I will use this "blog like" github repo to document what I have done with FPGAs.  
+And CPLDs (complexity between that of PALs and FPGAs).
+
+
+## Field-programmable gate array / Complex programmable logic device
+<img src="res/boards_sofar.jpg" align="left">  
+https://en.wikipedia.org/wiki/Field-programmable_gate_array<br> 
+https://en.wikipedia.org/wiki/Complex_programmable_logic_device<br> 
+(below is 25% size, right click for 100%)<br>
+<img src="res/FPGAs_CPLDs.jpg" width=482>
+<br clear="all"/>
+
 
 ## 11/20/2020
 * EBAZ4205 board ZYNQ XC7Z010 feature summary ([dual-core ARM Cortex-A9](https://www.xilinx.com/support/documentation/data_sheets/ds190-Zynq-7000-Overview.pdf#page=2), [Artix-7 FPGA](https://www.xilinx.com/support/documentation/data_sheets/ds190-Zynq-7000-Overview.pdf#page=3))
@@ -59,6 +70,3 @@ AMD Acquires Xilinx for $35 Billion ... [more](https://twitter.com/hackaday/stat
 I decided to start learning on how to use FPGAs, read a lot, and ordered three cheap development boards ... [more](2020/10/26/#10262020)
 
 
-## Field-programmable gate array (FPGA)  
-[https://en.wikipedia.org/wiki/Field-programmable_gate_array](https://en.wikipedia.org/wiki/Field-programmable_gate_array)  
-![](res/FPGAs.jpg)
