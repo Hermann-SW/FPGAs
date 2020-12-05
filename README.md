@@ -12,6 +12,11 @@ https://en.wikipedia.org/wiki/Complex_programmable_logic_device<br>
 <br clear="all"/>
 
 
+## 11/30/2020
+Received Tang Nano development board — only photo from home, delivery demo not before 12/14:  
+![](res/TangNano_plus_display.jpg)
+
+
 ## 11/20/2020
 * EP4CE10E22C8N altera fpga cyclone IV development board ordered 10/26, [delivery FPGA demo](https://www.youtube.com/watch?v=OehTmLRsN2s):  
 ![](res/EP4CE10E22C8N_altera_fpga_cyclone_IV_development_board_delivery_FPGA_demo.gif)
