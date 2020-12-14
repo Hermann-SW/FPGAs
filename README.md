@@ -12,6 +12,11 @@ https://en.wikipedia.org/wiki/Complex_programmable_logic_device<br>
 <br clear="all"/>
 
 
+## 12/14/2020 
+Powering Tang Nano shows delivery demo -- need to verify that display works:  
+![](res/TangNano_delivery_demo.anim.gif)
+
+
 ## 11/30/2020
 Received Tang Nano development board — only photo from home, delivery demo not before 12/14:  
 ![](res/TangNano_plus_display.jpg)
