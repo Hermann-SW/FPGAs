@@ -12,6 +12,11 @@ https://en.wikipedia.org/wiki/Complex_programmable_logic_device<br>
 <br clear="all"/>
 
 
+## 12/29/2020
+Older son installed Intel Quartus Prime Lite for EP4CE10E22C8N altera fpga cyclone IV development board ... [more](2020/12/29/#12292020):  
+![](res/out.anim.gif)
+
+
 ## 12/14/2020 
 Powering Tang Nano shows delivery demo -- need to verify that display works:  
 ![](res/TangNano_delivery_demo.anim.gif)
