@@ -1,6 +1,6 @@
 ## 12/29/2020
 
-My older son did register at Intel, and installed "Quartus Prime Lite Edition" for working with EP4CE10E22C8N altera fpga cyclone IV development board. Then he started from a binary counter demo (on the leds), used PLL divider 50 to get 1MHz clock, another divider by 1000 for 1KHz. The 1KHz clock is used to drive 4 digits from 7-segment display (94 logic elemnts used, of 10,320):  
+My older son did register at Intel, and installed "Quartus Prime Lite Edition" for working with EP4CE10E22C8N altera fpga cyclone IV development board. Then he started from a binary counter demo (on the leds), used PLL divider 50 to get 1MHz clock, another divider by 1000 for 1KHz. The 1KHz clock is used to drive 4 digits from 7-segment display (94 of 10,320 logic elements used):  
 ![](https://raw.githubusercontent.com/Hermann-SW/FPGAs/main/res/out.anim.gif)
 
 
