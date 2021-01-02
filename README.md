@@ -12,6 +12,15 @@ https://en.wikipedia.org/wiki/Complex_programmable_logic_device<br>
 <br clear="all"/>
 
 
+## 01/02/2021
+Reddit thread on ebaz4205 crypto miner board:  
+https://www.reddit.com/r/FPGA/comments/kmk9f9/ebaz4205_recycle_a_cheap_cryptominer_part_1/  
+
+First link in that thread points to new article:  
+"EBAZ4205 – “Recycle” a cheap crypto-miner (Part 1)"  
+https://embed-me.com/ebaz4205-recycle-a-cheap-crypto-miner-part-1/
+
+
 ## 12/29/2020
 Older son installed Intel Quartus Prime Lite for EP4CE10E22C8N altera fpga cyclone IV development board ... [more](2020/12/29/#12292020):  
 ![](res/out.anim.gif)
