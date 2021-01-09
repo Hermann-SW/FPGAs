@@ -13,7 +13,7 @@ https://en.wikipedia.org/wiki/Complex_programmable_logic_device<br>
 
 
 ## 01/09/2021
-Installed "Ubuntu 18.04.5 LTS (Bionic Beaver)" on an USB3 SSD, for installation of Xilinx (ISE Design Suite 14.7) and Altera (Intel Quartus Prime Lite) development software.
+Installed "Ubuntu 18.04.5 LTS (Bionic Beaver)" on an USB3 SSD, for installation of Xilinx (ISE Design Suite 14.7) and Altera (Intel Quartus Prime Lite 20.1) development software.
 
 
 ## 01/02/2021
