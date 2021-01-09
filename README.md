@@ -12,6 +12,10 @@ https://en.wikipedia.org/wiki/Complex_programmable_logic_device<br>
 <br clear="all"/>
 
 
+## 01/09/2021
+Installed "18.04.5 LTS (Bionic Beaver)" on an USB3 SSD, for installation of Xilinx (ISE Design Suite 14.7) and Altera (Intel Quartus Prime Lite) development software.
+
+
 ## 01/02/2021
 Reddit thread on ebaz4205 crypto miner board:  
 https://www.reddit.com/r/FPGA/comments/kmk9f9/ebaz4205_recycle_a_cheap_cryptominer_part_1/  
